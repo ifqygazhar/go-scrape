@@ -50,3 +50,6 @@ Run this command in your terminal, make sure the directories match !
 ```bash
 go run main.go
 ```
+
+## Reference
+https://github.com/zaenhaxor @zaenhaxor
